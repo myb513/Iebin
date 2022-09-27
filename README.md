@@ -36,4 +36,4 @@ I'm studying in **computer network** laboratory.
 💡used at once
 
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=black">
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript IDEA&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black">
