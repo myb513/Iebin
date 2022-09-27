@@ -31,5 +31,5 @@ I'm studying in **computer network** laboratory.
 ##🛠main tool🛠
 
 
-<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=black">
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/java-yellow?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black">
