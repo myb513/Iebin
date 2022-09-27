@@ -31,7 +31,7 @@ I'm studying in **computer network** laboratory.
   
 🛠main tool🛠
 
-<img src="https://img.shields.io/badge/C-purple?style=for-the-badge&logo=Visual Studio&logoColor=black">
+<img src="https://img.shields.io/badge/C-violet?style=for-the-badge&logo=Visual Studio&logoColor=#5C2D91">
 <img src="https://img.shields.io/badge/java-yellow?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black">
 
 💡used at once
