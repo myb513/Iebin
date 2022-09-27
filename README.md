@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ## _CE Undergraduate_
 ###     senior
 
-####I'm studying in **computer network** laboratory.
+I'm studying in **computer network** laboratory.
 
 <a href="https://www.blog.naver.com/myb513/" target="_blank">
   <img src="https://img.shields.io/badge/naver_blog-black?style=plastic&logo=Naver&logoColor=#03C75A"/></a>
