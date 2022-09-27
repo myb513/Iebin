@@ -29,4 +29,7 @@ I'm studying in **computer network** laboratory.
   <img src="https://img.shields.io/badge/insta_gram-black?style=plastic&logo=Instagram&logoColor=#E4405F"/></a>
   
 ##🛠main tool🛠
+
+
 <img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=C&logoColor=black">
+<img src="https://img.shields.io/badge/C-black?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black">
