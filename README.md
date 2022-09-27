@@ -28,8 +28,11 @@ I'm studying in **computer network** laboratory.
 <a href="https://www.instagram.com/2bin._.98/" target="_blank">
   <img src="https://img.shields.io/badge/insta_gram-black?style=plastic&logo=Instagram&logoColor=#E4405F"/></a>
   
-##🛠main tool🛠
-
+🛠main tool🛠
 
 <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=black">
 <img src="https://img.shields.io/badge/java-yellow?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black">
+
+💡used at once
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=C&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black">
