@@ -34,5 +34,6 @@ I'm studying in **computer network** laboratory.
 <img src="https://img.shields.io/badge/java-yellow?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black">
 
 💡used at once
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=C&logoColor=black">
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black">
+
+<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=black">
+<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript IDEA&logoColor=black">
