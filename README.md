@@ -24,7 +24,7 @@ I'm studying in **computer network** laboratory.
 
 **SNS**
 
-<a href="https://www.blog.naver.com/myb513/" target="_blank">
+<a href="https://blog.naver.com/myb513/222852048486" target="_blank">
   <img src="https://img.shields.io/badge/naver_blog-black?style=plastic&logo=Naver&logoColor=#03C75A"/></a>
 <a href="https://www.instagram.com/2bin._.98/" target="_blank">
   <img src="https://img.shields.io/badge/insta_gram-black?style=plastic&logo=Instagram&logoColor=#E4405F"/></a>
