@@ -1,2 +1,3 @@
 클라이언트 ID : 832440413694-15midan99opv19j7nrocr79dndcnplg8.apps.googleusercontent.com
 클라이언트 보안 비밀번호 : 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
+api 키 : AIzaSyC4geotSpdvbn0IgEoA1ObAOpe0eYKfXy4
