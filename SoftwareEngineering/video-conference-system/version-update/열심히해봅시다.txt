@@ -13,9 +13,28 @@
 음성인식 api는 웹팩? 처럼 브라우저 전용코드라서
 node js로 구현하려면 브라우저화 하는 모듈이 필요함. 
 나는 browerify 라는 모듈을 설치했고 (npm install browserify)
+
+
+
 app.js 코드 수정후 확인해보려면
 
 (browserify app.js -o bundle1014.js) 명령어를 통해
 브라우저용 코드로 변환한 js 파일을 생성해서 실행한다.
+
+이 때 
+ParseError: 'import' and 'export' may appear only with 'sourceType: module' 에러가 뜬다면,
+
+node_modules/axios/index.js 파일을
+
+var axios = require('axios') 로 수정해주면 된다.
+
+
 스크립트 파일의 이름도 변경해주어야하기 때문에,
 pug 파일의 스크립트 부분의 js파일 이름도 수정하였다.
+
+
+-3줄 요약-
+
+app.js로 코딩하며 기능을 추가한다.
+실행시 음성인식 api 호환문제로 browserify 해주어야 한다. (에러 뜬다면 위의 index.js 파일을 수정)
+이때 pug파일의 script에 이름을 똑같이 해주어야 한다.
