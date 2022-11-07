@@ -1,0 +1,16 @@
+코드 진전이 없다.. ㅜㅜ 시간을 허공에 뿌리는 기분이야..
+
+내가 사용하는 구글 로그인 api는 
+
+people api 라고 부르는 친구인데
+
+node.js 전용 샘플코드의 깃허브 링크는 다음과 같다.
+
+https://github.com/googleworkspace/node-samples/blob/main/people/quickstart/
+
+사실 이것보다
+
+버튼으로 구현하고 싶소이만,
+
+소스들이 다 구닥다리라, 오류가 뜨고 있는 상황
+
