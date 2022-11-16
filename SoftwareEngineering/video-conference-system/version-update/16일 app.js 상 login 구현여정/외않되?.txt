@@ -1,0 +1,28 @@
+node js 프론트엔드용 google login api sample 코드 출처는 다음과 같다.
+
+https://developers.google.com/people/quickstart/nodejs?hl=ko
+
+메뉴얼에
+Save the downloaded JSON file as credentials.json, and move the file to your working directory.
+JSON 파일을 작업 경로에 추가하였다. (첨부파일)
+
+npm install googleapis@105 @google-cloud/local-auth@2.1.0 --save 명령어 실행하여 설치하였다.
+
+여기 코드를 기존 app.js에 추가하였고
+browserfy 시도 했으나
+자꾸 require process 에서  Error: Can't walk dependency graph: Cannot find module 가 뜨더라
+
+
+
+
+임시방편으로 const process = require('process'); 코드를
+
+const process = require('process/');로 수정하였고
+
+뒤따르는 node_modules\googleapis-common\build\src\http2.js 내의 코드도 process/로 바꾸었다.
+
+그럼 browserify가 되긴 된다. 
+
+실행시키면 
+Uncaught TypeError: The "original" argument must be of type Function 오류 떠서 보류중
+
