@@ -26,3 +26,5 @@ const process = require('process/');로 수정하였고
 실행시키면 
 Uncaught TypeError: The "original" argument must be of type Function 오류 떠서 보류중
 
+
+wlasqk.js 파일은 억지로 browserify한 bundle파일 이다.
