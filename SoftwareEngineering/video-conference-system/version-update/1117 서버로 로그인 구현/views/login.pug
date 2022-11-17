@@ -1,0 +1,30 @@
+doctype html
+html(lang="en")
+    head
+
+        meta(charset="UTF-8")
+        meta(http-equiv='Pragma', content='no-cache')
+        meta(http-equiv="X-UA-Compatible", content="IE=edge")
+        meta(name="viewport", content="width=device-width, initial-scale=1.0")
+        link(rel="stylesheet", href="https://use.fontawesome.com/releases/v5.15.4/css/all.css", integrity="sha384-DyZ88mC6Up2uqS4h/KRgHuoeGwBcD4Ng9SiP4dIRy0EXTlnuz47vAwmeGwVChigm", crossorigin="anonymous")
+        link(rel="stylesheet", href="/public/css/style.css")
+        title Comma
+        body 
+        header
+            h1 COM'MA
+            
+            script(type='text/javascript').
+                invite = "#{invite}";
+                iroomName = "#{iroomName}";
+                inickName = "#{inickName}";
+                
+        main             
+            div#welcome 
+                form
+                    a#loginbtn(href='/auth/google') login
+                    pre#content(style='white-space: pre-wrap;').
+
+        script().
+        script(src="/socket.io/socket.io.js")
+        script().m
+        script(src="/public/js/bundle.js")
