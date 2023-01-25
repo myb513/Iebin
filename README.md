@@ -41,4 +41,6 @@ I'm studying in **computer network** laboratory.
 
 
 coding exp
-[![Python](http://mazassumnida.wtf/api/v2/generate_badge?boj=myb513)](https://solved.ac/myb513/)
+
+
+[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=myb513)](https://solved.ac/myb513)
