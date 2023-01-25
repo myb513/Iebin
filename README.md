@@ -38,3 +38,7 @@ I'm studying in **computer network** laboratory.
 
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black">
+
+
+coding exp
+[![Python](http://mazassumnida.wtf/api/v2/generate_badge?boj=myb513)](https://solved.ac/myb513/)
