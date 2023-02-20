@@ -22,8 +22,11 @@ Here are some ideas to get you started:
 
 I'm studying in **computer network** laboratory.
 
-**SNS**
+**Social**
 
+<a href="https://velog.io/@myb513">
+  <img alt="velog" src="https://img.shields.io/badge/velog-20C997.svg?logo=velog&logoColor=white"/>
+</a
 <a href="https://blog.naver.com/myb513/222852048486" target="_blank">
   <img src="https://img.shields.io/badge/naver_blog-black?style=plastic&logo=Naver&logoColor=#03C75A"/></a>
 <a href="https://www.instagram.com/2bin._.25/" target="_blank">
