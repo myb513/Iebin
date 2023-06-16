@@ -38,8 +38,8 @@ I'm studying in **computer network** laboratory.
   
 **🛠friendly tool🛠**
 <img src="https://img.shields.io/badge/C-violet?style=for-the-badge&logo=Visual Studio&logoColor=#5C2D91">
-<img src="https://img.shields.io/badge/java-yellow?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black">
-<img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=black">
+  <img src="https://img.shields.io/badge/java-yellow?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black">
+  <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=black">
 
 
 **🌱 I’m currently learning**
