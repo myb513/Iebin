@@ -36,13 +36,11 @@ I'm studying in **computer network** laboratory.
 <a href="https://www.instagram.com/2bin._.25/" target="_blank">
   <img src="https://img.shields.io/badge/insta_gram-black?style=plastic&logo=Instagram&logoColor=#E4405F"/></a>
   
-🛠main tool🛠
+🛠friendly tool🛠
 
 <img src="https://img.shields.io/badge/C-violet?style=for-the-badge&logo=Visual Studio&logoColor=#5C2D91">
 <img src="https://img.shields.io/badge/java-yellow?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black">
-
-💡used at once
-
+<img alt="nodejs" src="https://img.shields.io/badge/NodeJs-339933?logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=black">
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black">
 
