@@ -37,6 +37,8 @@ I'm studying in **computer network** laboratory.
   <img src="https://img.shields.io/badge/naver_blog-black?style=plastic&logo=Naver&logoColor=#03C75A"/></a>
 <a href="https://www.instagram.com/2bin._.25/" target="_blank">
   <img src="https://img.shields.io/badge/insta_gram-black?style=plastic&logo=Instagram&logoColor=#E4405F"/></a>
+  
+<br>
 <br>
   
 **🛠friendly tool🛠**
@@ -45,6 +47,8 @@ I'm studying in **computer network** laboratory.
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=black">
 
 <br>
+<br>
+
 **🤔I’m currently learning🤔**
 <img alt="nodejs" src="https://img.shields.io/badge/NodeJs-339933?logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black">
