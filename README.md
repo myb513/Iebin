@@ -26,6 +26,8 @@ I'm studying in **computer network** laboratory.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myb513&show_icons=true&theme=radical)
 
+<br>
+
 **✨Social✨**
 
 <a href="https://velog.io/@myb513">
@@ -35,17 +37,18 @@ I'm studying in **computer network** laboratory.
   <img src="https://img.shields.io/badge/naver_blog-black?style=plastic&logo=Naver&logoColor=#03C75A"/></a>
 <a href="https://www.instagram.com/2bin._.25/" target="_blank">
   <img src="https://img.shields.io/badge/insta_gram-black?style=plastic&logo=Instagram&logoColor=#E4405F"/></a>
+<br>
   
 **🛠friendly tool🛠**
 <img src="https://img.shields.io/badge/C-violet?style=for-the-badge&logo=Visual Studio&logoColor=#5C2D91">
   <img src="https://img.shields.io/badge/java-yellow?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=black">
 
-
+<br>
 **🤔I’m currently learning🤔**
 <img alt="nodejs" src="https://img.shields.io/badge/NodeJs-339933?logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black">
-
+<br>
 **🌱coding exp🌱**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=myb513)](https://solved.ac/myb513)
