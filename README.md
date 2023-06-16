@@ -42,10 +42,10 @@ I'm studying in **computer network** laboratory.
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=black">
 
 
-**🌱 I’m currently learning**
+**🤔I’m currently learning**
 <img alt="nodejs" src="https://img.shields.io/badge/NodeJs-339933?logo=Node.js&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black">
 
-**coding exp**
+**🌱coding exp**
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=myb513)](https://solved.ac/myb513)
