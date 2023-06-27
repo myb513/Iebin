@@ -45,12 +45,13 @@ I'm studying in **computer network** laboratory.
 <img src="https://img.shields.io/badge/C-violet?style=for-the-badge&logo=Visual Studio&logoColor=#5C2D91">
   <img src="https://img.shields.io/badge/java-yellow?style=for-the-badge&logo=IntelliJ IDEA&logoColor=black">
   <img src="https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=Python&logoColor=black">
+  <img alt="nodejs" src="https://img.shields.io/badge/NodeJs-339933?logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black">
 
 <br>
 
 **🤔I’m currently learning🤔**
-<img alt="nodejs" src="https://img.shields.io/badge/NodeJs-339933?logo=Node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-yellow?style=for-the-badge&logo=JavaScript&logoColor=black">
+MPC Algorithm in ABR 
 
 <br>
 
