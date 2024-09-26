@@ -1,6 +1,6 @@
 
 
-# Hi there! 👋 I'm [Your Name]
+# Hi there! 👋 I'm [Iebin Moon]
 
 🎓 **Graduate Student at Changwon National University**  
 Currently in my 2nd semester, majoring in **Computer Networks**.
