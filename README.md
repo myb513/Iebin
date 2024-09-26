@@ -1,32 +1,22 @@
 
 
-<!--
-**myb513/myb513** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there! 👋 I'm [Your Name]
 
-Here are some ideas to get you started:
+🎓 **Graduate Student at Changwon National University**  
+Currently in my 2nd semester, majoring in **Computer Networks**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 **Research Interests**  
+- **ABR Algorithms**: Preparing for a KCI journal submission on Adaptive Bitrate Streaming.  
+- **QUIC Protocol**: Exploring the future of internet transport for my graduation thesis.
 
+💻 **Current Projects**  
+- **Risk Monitoring System**: Developing a hazard detection system using **YOLO** deep learning models for real-time monitoring.
 
-# Moon Iebin
-## _CE Undergraduate_
-###     senior
+🌱 **Always Learning**  
+Actively expanding my knowledge in AI applications within networking and safety systems.
 
-I'm studying in **computer network** laboratory.
-
-<img src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=180&section=header&text=myb513+Github&fontSize=70" />
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myb513&show_icons=true&theme=radical)
-
-<br>
+Feel free to connect or check out my work!  
+[Your LinkedIn/GitHub/Email links]
 
 **✨Social✨**
 
@@ -39,7 +29,6 @@ I'm studying in **computer network** laboratory.
   <img src="https://img.shields.io/badge/insta_gram-black?style=plastic&logo=Instagram&logoColor=#E4405F"/></a>
   
 <br>
-<br>
   
 **🛠friendly tool🛠**
 <img src="https://img.shields.io/badge/C-violet?style=for-the-badge&logo=Visual Studio&logoColor=#5C2D91">
@@ -50,10 +39,6 @@ I'm studying in **computer network** laboratory.
 
 <br>
 
-**🤔I’m currently learning🤔**
-MPC Algorithm in ABR 
-
-<br>
 
 **🌱coding exp🌱**
 
