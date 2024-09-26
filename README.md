@@ -16,8 +16,6 @@ Currently in my 2nd semester, majoring in **Computer Networks**.
 Actively expanding my knowledge in AI applications within networking and safety systems.
 
 Feel free to connect or check out my work!  
-[Your LinkedIn/GitHub/Email links]
-
 **✨Social✨**
 
 <a href="https://velog.io/@myb513">
@@ -27,6 +25,9 @@ Feel free to connect or check out my work!
   <img src="https://img.shields.io/badge/naver_blog-black?style=plastic&logo=Naver&logoColor=#03C75A"/></a>
 <a href="https://www.instagram.com/2bin._.25/" target="_blank">
   <img src="https://img.shields.io/badge/insta_gram-black?style=plastic&logo=Instagram&logoColor=#E4405F"/></a>
+
+
+
   
 <br>
   
